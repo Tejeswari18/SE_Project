@@ -1,0 +1,22 @@
+.navbar{width:100%; 
+    height: 25px; 
+  background-color:rgb(193, 232, 245);
+  overflow:auto}
+  .navbar a.nav-link{padding:15px;
+  float :right;
+  color:rgb(22,180,22);
+  text-decoration:underline;
+  font-family: monospace;
+  font-size:25px}
+  .navbar a.b{padding:15px;
+  color:navy;
+  font-size:30px;
+  float:left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration:underline}
+  .navbar a:hover{color:navy}
+  .navbar a.navbar-brand{padding:15px;
+  color:navy;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: underline;
+  font-size:30px}
